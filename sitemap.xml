@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- CORE PAGES -->
+  <url><loc>https://www.lifespaceblinds.com/</loc><lastmod>2025-05-20</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.lifespaceblinds.com/collections/</loc><lastmod>2025-05-20</lastmod><changefreq>monthly</changefreq><priority>0.90</priority></url>
+  <url><loc>https://www.lifespaceblinds.com/smart-shading/</loc><lastmod>2025-05-20</lastmod><changefreq>monthly</changefreq><priority>0.90</priority></url>
+  <url><loc>https://www.lifespaceblinds.com/trade-program/</loc><lastmod>2025-05-20</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://www.lifespaceblinds.com/our-process/</loc><lastmod>2025-05-20</lastmod><changefreq>monthly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://www.lifespaceblinds.com/about/</loc><lastmod>2025-05-20</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://www.lifespaceblinds.com/contact/</loc><lastmod>2025-05-20</lastmod><changefreq>monthly</changefreq><priority>0.90</priority></url>
+
+  <!-- PRODUCT COLLECTION PAGES -->
+  <url><loc>https://www.lifespaceblinds.com/collections/motorized-roller-blinds/</loc><lastmod>2025-05-20</lastmod><changefreq>monthly</changefreq><priority>0.90</priority></url>
+  <url><loc>https://www.lifespaceblinds.com/collections/natural-woven-shades/</loc><lastmod>2025-05-20</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://www.lifespaceblinds.com/collections/cellular-shades/</loc><lastmod>2025-05-20</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://www.lifespaceblinds.com/collections/roman-shades/</loc><lastmod>2025-05-20</lastmod><changefreq>monthly</changefreq><priority>0.82</priority></url>
+  <url><loc>https://www.lifespaceblinds.com/collections/wood-blinds/</loc><lastmod>2025-05-20</lastmod><changefreq>monthly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://www.lifespaceblinds.com/collections/commercial/</loc><lastmod>2025-05-20</lastmod><changefreq>monthly</changefreq><priority>0.80</priority></url>
+
+  <!-- LOCATION PAGES - TIER 1 -->
+  <url><loc>https://www.lifespaceblinds.com/locations/</loc><lastmod>2025-05-20</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://www.lifespaceblinds.com/locations/halifax/</loc><lastmod>2025-05-20</lastmod><changefreq>monthly</changefreq><priority>0.95</priority></url>
+  <url><loc>https://www.lifespaceblinds.com/locations/moncton/</loc><lastmod>2025-05-20</lastmod><changefreq>monthly</changefreq><priority>0.90</priority></url>
+  <url><loc>https://www.lifespaceblinds.com/locations/saint-john/</loc><lastmod>2025-05-20</lastmod><changefreq>monthly</changefreq><priority>0.88</priority></url>
+  <url><loc>https://www.lifespaceblinds.com/locations/charlottetown/</loc><lastmod>2025-05-20</lastmod><changefreq>monthly</changefreq><priority>0.88</priority></url>
+  <url><loc>https://www.lifespaceblinds.com/locations/st-johns/</loc><lastmod>2025-05-20</lastmod><changefreq>monthly</changefreq><priority>0.88</priority></url>
+
+  <!-- LOCATION PAGES - TIER 2 -->
+  <url><loc>https://www.lifespaceblinds.com/locations/dartmouth/</loc><lastmod>2025-05-20</lastmod><changefreq>monthly</changefreq><priority>0.82</priority></url>
+  <url><loc>https://www.lifespaceblinds.com/locations/fredericton/</loc><lastmod>2025-05-20</lastmod><changefreq>monthly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://www.lifespaceblinds.com/locations/bedford/</loc><lastmod>2025-05-20</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://www.lifespaceblinds.com/locations/summerside/</loc><lastmod>2025-05-20</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://www.lifespaceblinds.com/locations/corner-brook/</loc><lastmod>2025-05-20</lastmod><changefreq>monthly</changefreq><priority>0.72</priority></url>
+
+  <!-- BLOG / INSPIRATION -->
+  <url><loc>https://www.lifespaceblinds.com/inspiration/</loc><lastmod>2025-05-20</lastmod><changefreq>weekly</changefreq><priority>0.78</priority></url>
+  <url><loc>https://www.lifespaceblinds.com/inspiration/motorized-blinds-cost-canada-2025/</loc><lastmod>2025-05-01</lastmod><changefreq>monthly</changefreq><priority>0.82</priority></url>
+  <url><loc>https://www.lifespaceblinds.com/inspiration/best-window-treatments-atlantic-canada/</loc><lastmod>2025-04-01</lastmod><changefreq>monthly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://www.lifespaceblinds.com/inspiration/window-treatments-new-construction-renovation/</loc><lastmod>2025-03-01</lastmod><changefreq>monthly</changefreq><priority>0.78</priority></url>
+  <url><loc>https://www.lifespaceblinds.com/inspiration/motorized-roller-blinds-vs-cellular-shades/</loc><lastmod>2025-02-01</lastmod><changefreq>monthly</changefreq><priority>0.78</priority></url>
+  <url><loc>https://www.lifespaceblinds.com/inspiration/motorized-blinds-guide-halifax/</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://www.lifespaceblinds.com/inspiration/natural-woven-shades-guide/</loc><lastmod>2024-12-01</lastmod><changefreq>monthly</changefreq><priority>0.78</priority></url>
+  <url><loc>https://www.lifespaceblinds.com/inspiration/homekit-vs-google-home-vs-alexa-smart-blinds/</loc><lastmod>2024-11-01</lastmod><changefreq>monthly</changefreq><priority>0.78</priority></url>
+
+  <!-- AI / LLM CONTENT FILES -->
+  <url><loc>https://www.lifespaceblinds.com/llms.txt</loc><lastmod>2025-05-20</lastmod><changefreq>monthly</changefreq><priority>0.50</priority></url>
+  <url><loc>https://www.lifespaceblinds.com/llms-full.txt</loc><lastmod>2025-05-20</lastmod><changefreq>monthly</changefreq><priority>0.50</priority></url>
+
+</urlset>

@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="LifeSpace Blinds Open Graph image">
+  <title>LifeSpace Blinds | Luxury Custom Window Blinds and Smart Shading | Halifax, Nova Scotia</title>
+  <desc>Atlantic Canada's premier luxury window treatment studio. Bespoke motorized blinds, custom shades and smart shading for Halifax, Moncton, Charlottetown, Saint John and St. John's.</desc>
+
+  <!-- Background - deep charcoal -->
+  <rect width="1200" height="630" fill="#1C1C1A"/>
+
+  <!-- Animated blind slat texture overlay -->
+  <!-- Slats - subtle horizontal lines across full width -->
+  <rect x="0" y="0"   width="1200" height="2" fill="#B8965A" opacity="0.12"/>
+  <rect x="0" y="46"  width="1200" height="2" fill="#B8965A" opacity="0.10"/>
+  <rect x="0" y="92"  width="1200" height="2" fill="#B8965A" opacity="0.10"/>
+  <rect x="0" y="138" width="1200" height="2" fill="#B8965A" opacity="0.10"/>
+  <rect x="0" y="184" width="1200" height="2" fill="#B8965A" opacity="0.10"/>
+  <rect x="0" y="230" width="1200" height="2" fill="#B8965A" opacity="0.10"/>
+  <rect x="0" y="276" width="1200" height="2" fill="#B8965A" opacity="0.10"/>
+  <rect x="0" y="322" width="1200" height="2" fill="#B8965A" opacity="0.10"/>
+  <rect x="0" y="368" width="1200" height="2" fill="#B8965A" opacity="0.10"/>
+  <rect x="0" y="414" width="1200" height="2" fill="#B8965A" opacity="0.10"/>
+  <rect x="0" y="460" width="1200" height="2" fill="#B8965A" opacity="0.10"/>
+  <rect x="0" y="506" width="1200" height="2" fill="#B8965A" opacity="0.10"/>
+  <rect x="0" y="552" width="1200" height="2" fill="#B8965A" opacity="0.10"/>
+  <rect x="0" y="598" width="1200" height="2" fill="#B8965A" opacity="0.10"/>
+  <rect x="0" y="628" width="1200" height="2" fill="#B8965A" opacity="0.10"/>
+
+  <!-- Right panel - lighter charcoal, angled clip -->
+  <polygon points="820,0 1200,0 1200,630 680,630" fill="#2E2E2B" opacity="0.6"/>
+
+  <!-- Gold accent vertical rule -->
+  <rect x="76" y="180" width="1" height="280" fill="#B8965A" opacity="0.6"/>
+
+  <!-- Top label -->
+  <text x="96" y="218"
+    font-family="'Jost', 'Arial', sans-serif"
+    font-size="13"
+    font-weight="400"
+    fill="#B8965A"
+    letter-spacing="5">HALIFAX · ATLANTIC CANADA · EST. 2014</text>
+
+  <!-- Main wordmark -->
+  <text x="96" y="330"
+    font-family="'Georgia', serif"
+    font-size="86"
+    font-weight="400"
+    fill="#F5F1EB">LifeSpace</text>
+
+  <text x="96" y="400"
+    font-family="'Georgia', serif"
+    font-size="86"
+    font-weight="400"
+    fill="#B8965A">Blinds</text>
+
+  <!-- Tagline -->
+  <text x="96" y="448"
+    font-family="'Arial', sans-serif"
+    font-size="18"
+    font-weight="300"
+    fill="#F5F1EB"
+    opacity="0.55">Luxury Custom Window Blinds and Smart Shading for Atlantic Canada</text>
+
+  <!-- Bottom URL -->
+  <text x="96" y="564"
+    font-family="'Arial', sans-serif"
+    font-size="14"
+    font-weight="300"
+    fill="#B8965A"
+    opacity="0.7"
+    letter-spacing="1">www.lifespaceblinds.com</text>
+
+  <!-- Blind slat mark - large decorative version, right side -->
+  <g transform="translate(940, 165)">
+    <rect x="0"  y="0"   width="180" height="12" rx="2" fill="#B8965A" opacity="0.90"/>
+    <rect x="0"  y="26"  width="180" height="12" rx="2" fill="#B8965A" opacity="0.75"/>
+    <rect x="0"  y="52"  width="180" height="12" rx="2" fill="#B8965A" opacity="0.60"/>
+    <rect x="0"  y="78"  width="180" height="12" rx="2" fill="#B8965A" opacity="0.45"/>
+    <rect x="0"  y="104" width="180" height="12" rx="2" fill="#B8965A" opacity="0.30"/>
+    <rect x="0"  y="130" width="180" height="12" rx="2" fill="#B8965A" opacity="0.18"/>
+    <rect x="0"  y="156" width="180" height="12" rx="2" fill="#B8965A" opacity="0.10"/>
+    <!-- Lift cord -->
+    <line x1="158" y1="0" x2="158" y2="175" stroke="#B8965A" stroke-width="2" opacity="0.25"/>
+  </g>
+
+  <!-- Bottom gold rule -->
+  <rect x="0" y="590" width="1200" height="1" fill="#B8965A" opacity="0.15"/>
+
+  <!-- Rating badge -->
+  <rect x="96" y="580" width="220" height="32" rx="2" fill="#B8965A" opacity="0.12"/>
+  <text x="106" y="601"
+    font-family="'Arial', sans-serif"
+    font-size="12"
+    fill="#B8965A"
+    letter-spacing="1">4.9 STARS  |  147+ REVIEWS  |  500+ PROJECTS</text>
+</svg>

@@ -1,210 +1,220 @@
-# ============================================================
-# robots.txt — lifespaceblinds.com
-# Last updated: 2026-05-19
-# Policy: open to search engines and AI / generative crawlers.
-#         Blocked: Internet Archive, Wayback Machine, Heritrix.
-# ============================================================
+# robots.txt — LifeSpace Blinds
+# https://www.lifespaceblinds.com/robots.txt
+# Last updated: 2025-05-20
 
+# ═══════════════════════════════════════════════
+# ALLOW: All standard search engine crawlers
+# ═══════════════════════════════════════════════
 
-# ------------------------------------------------------------
-# Default: all crawlers welcome
-# ------------------------------------------------------------
-User-agent: *
-Allow: /
-
-
-# ------------------------------------------------------------
-# Major search engines — explicit allows (for clarity)
-# ------------------------------------------------------------
 User-agent: Googlebot
 Allow: /
+Crawl-delay: 1
 
 User-agent: Googlebot-Image
-Allow: /
-
-User-agent: Googlebot-News
 Allow: /
 
 User-agent: Googlebot-Video
 Allow: /
 
+User-agent: Googlebot-News
+Allow: /
+
+User-agent: AdsBot-Google
+Allow: /
+
 User-agent: Bingbot
 Allow: /
+Crawl-delay: 2
+
+User-agent: Slurp
+Allow: /
+Crawl-delay: 2
 
 User-agent: DuckDuckBot
 Allow: /
 
-User-agent: Slurp
-Allow: /
-
 User-agent: Baiduspider
 Allow: /
+Crawl-delay: 5
 
 User-agent: YandexBot
 Allow: /
+Crawl-delay: 3
 
-User-agent: Yeti
+User-agent: facebot
 Allow: /
 
+User-agent: Twitterbot
+Allow: /
 
-# ------------------------------------------------------------
-# AI / generative engine crawlers — explicitly welcomed.
-# Listing each one makes intent unambiguous for AEO / GEO,
-# and protects allows if a future default rule changes.
-# ------------------------------------------------------------
+User-agent: LinkedInBot
+Allow: /
 
-# OpenAI
+User-agent: Pinterest
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+# ═══════════════════════════════════════════════
+# ALLOW: Generative AI and LLM crawlers
+# These crawlers build knowledge for AI assistants.
+# We explicitly allow them and signal our LLMs files.
+# ═══════════════════════════════════════════════
+
+# OpenAI / ChatGPT
 User-agent: GPTBot
 Allow: /
+Crawl-delay: 2
 
-User-agent: ChatGPT-User
-Allow: /
-
+# OpenAI image crawler
 User-agent: OAI-SearchBot
 Allow: /
 
-# Anthropic
+# Anthropic Claude
 User-agent: ClaudeBot
 Allow: /
+Crawl-delay: 2
 
 User-agent: Claude-Web
 Allow: /
 
-User-agent: Claude-SearchBot
-Allow: /
-
-User-agent: anthropic-ai
-Allow: /
-
-# Google AI
+# Google Gemini / Bard
 User-agent: Google-Extended
 Allow: /
 
-User-agent: GoogleOther
-Allow: /
-
-# Perplexity
+# Perplexity AI
 User-agent: PerplexityBot
 Allow: /
+Crawl-delay: 2
 
-User-agent: Perplexity-User
-Allow: /
-
-# Apple
-User-agent: Applebot
-Allow: /
-
-User-agent: Applebot-Extended
-Allow: /
-
-# Meta / Facebook
+# Meta AI
 User-agent: Meta-ExternalAgent
 Allow: /
 
 User-agent: Meta-ExternalFetcher
 Allow: /
 
-User-agent: FacebookBot
+# Apple Intelligence
+User-agent: Applebot-Extended
 Allow: /
 
-User-agent: facebookexternalhit
-Allow: /
-
-# Amazon
+# Amazon Alexa / Kendra
 User-agent: Amazonbot
 Allow: /
+Crawl-delay: 3
 
-# ByteDance / TikTok
-User-agent: Bytespider
-Allow: /
-
-# Common Crawl (powers many LLM training datasets)
-User-agent: CCBot
-Allow: /
-
-# Cohere
+# Cohere AI
 User-agent: cohere-ai
 Allow: /
 
-User-agent: cohere-training-data-crawler
+# AI2 (Allen Institute)
+User-agent: CCBot
 Allow: /
+Crawl-delay: 5
 
-# Mistral
-User-agent: MistralAI-User
-Allow: /
-
-# DuckDuckGo AI assistant
-User-agent: DuckAssistBot
+# Common Crawl (used by many AI training datasets)
+User-agent: CCBot
 Allow: /
 
 # You.com
 User-agent: YouBot
 Allow: /
 
-# Brave Search / Leo AI
-User-agent: Bravebot
+# Brave Search
+User-agent: Brave
 Allow: /
 
-# xAI / Grok
-User-agent: xAI
-Allow: /
-
-# Other relevant AI / training crawlers
+# Diffbot (AI data extraction)
 User-agent: Diffbot
 Allow: /
 
-User-agent: Timpibot
-Allow: /
+# ═══════════════════════════════════════════════
+# BLOCK: Web Archiving and Wayback Machine
+# We control our own canonical content and do not
+# want historical snapshots indexed or used as
+# competing content signals.
+# ═══════════════════════════════════════════════
 
-User-agent: PetalBot
-Allow: /
-
-User-agent: Kagibot
-Allow: /
-
-
-# ------------------------------------------------------------
-# BLOCKED: Internet Archive / Wayback Machine / Heritrix
-# We do not consent to archival of this site by these crawlers.
-# ------------------------------------------------------------
+# Internet Archive / Wayback Machine / Heritrix
 User-agent: ia_archiver
-Disallow: /
-
-User-agent: ia_archiver-web.archive.org
-Disallow: /
-
-User-agent: archive.org_bot
-Disallow: /
-
-User-agent: Archive.org_Bot
-Disallow: /
-
-User-agent: archive-org-bot
-Disallow: /
-
-User-agent: Wayback
-Disallow: /
-
-User-agent: Wayback Machine
-Disallow: /
-
-User-agent: WaybackArchive Bot
-Disallow: /
-
-User-agent: WaybackArchiveBot
-Disallow: /
-
-User-agent: heritrix
 Disallow: /
 
 User-agent: Heritrix
 Disallow: /
 
-User-agent: Heritrix/3.0
+User-agent: archive.org_bot
 Disallow: /
 
+User-agent: wayback_machine
+Disallow: /
 
-# ------------------------------------------------------------
-# Sitemap
-# ------------------------------------------------------------
-Sitemap: https://lifespaceblinds.com/sitemap.xml
+User-agent: internetarchive
+Disallow: /
+
+# ═══════════════════════════════════════════════
+# BLOCK: Scrapers, spam bots, and low-quality crawlers
+# ═══════════════════════════════════════════════
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: SeznamBot
+Allow: /
+
+# ═══════════════════════════════════════════════
+# DISALLOW: Private, admin, and utility paths
+# ═══════════════════════════════════════════════
+
+User-agent: *
+Disallow: /admin/
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+Disallow: /cgi-bin/
+Disallow: /private/
+Disallow: /staging/
+Disallow: /dev/
+Disallow: /test/
+Disallow: /search/?*
+Disallow: /*?utm_*
+Disallow: /*?fbclid=*
+Disallow: /*?gclid=*
+Disallow: /*?ref=*
+Disallow: /*?session=*
+Allow: /
+
+# ═══════════════════════════════════════════════
+# SITEMAPS
+# ═══════════════════════════════════════════════
+
+Sitemap: https://www.lifespaceblinds.com/sitemap.xml
+
+# ═══════════════════════════════════════════════
+# AI CONTENT MANIFESTS
+# Signal to AI crawlers where to find structured
+# content optimised for language model ingestion.
+# ═══════════════════════════════════════════════
+
+# LLMs.txt: https://www.lifespaceblinds.com/llms.txt
+# LLMs-Full.txt: https://www.lifespaceblinds.com/llms-full.txt

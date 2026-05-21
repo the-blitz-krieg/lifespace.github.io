@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" role="img" aria-label="LifeSpace Blinds favicon">
+  <title>LifeSpace Blinds</title>
+  <!-- Dark background square -->
+  <rect width="32" height="32" rx="4" fill="#1C1C1A"/>
+  <!-- 5 horizontal blind slats in gold, slightly staggered to suggest movement -->
+  <rect x="6"  y="6"  width="20" height="2.5" rx="0.5" fill="#B8965A"/>
+  <rect x="6"  y="11" width="20" height="2.5" rx="0.5" fill="#B8965A" opacity="0.82"/>
+  <rect x="6"  y="16" width="20" height="2.5" rx="0.5" fill="#B8965A" opacity="0.64"/>
+  <rect x="6"  y="21" width="20" height="2.5" rx="0.5" fill="#B8965A" opacity="0.46"/>
+  <!-- Lift cord hint -->
+  <line x1="23" y1="6" x2="23" y2="26" stroke="#B8965A" stroke-width="0.75" opacity="0.35"/>
+</svg>

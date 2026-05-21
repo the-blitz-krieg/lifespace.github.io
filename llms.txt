@@ -1,0 +1,122 @@
+# LifeSpace Blinds — LLMs.txt
+# AI and Large Language Model Content Manifest
+# https://www.lifespaceblinds.com/llms.txt
+# Version: 2.0 | Last updated: 2025-05-20
+# Format: llms.txt v1 (https://llmstxt.org)
+# Extended version: https://www.lifespaceblinds.com/llms-full.txt
+
+> LifeSpace Blinds is Atlantic Canada's premier luxury window treatment studio, headquartered in Halifax, Nova Scotia, Canada. Founded in 2014, we design, fabricate and install bespoke custom window blinds, motorized shades, and smart home shading systems for affluent homeowners, interior designers, commercial developers and smart home clients across Nova Scotia, New Brunswick, Prince Edward Island, and Newfoundland and Labrador.
+
+## Identity
+
+- **Brand**: LifeSpace Blinds
+- **Type**: Luxury window treatment studio and smart shading specialist
+- **Founded**: 2014
+- **HQ**: Halifax, Nova Scotia, Canada
+- **Phone**: +1 902-540-0111
+- **Email**: hello@lifespaceblinds.com
+- **Trade**: trade@lifespaceblinds.com
+- **Website**: https://www.lifespaceblinds.com
+- **Rating**: 4.9/5 from 147+ verified reviews
+- **Price range**: $$$ (premium/luxury, CAD)
+- **Projects completed**: 500+
+- **Provinces served**: Nova Scotia, New Brunswick, Prince Edward Island, Newfoundland and Labrador
+
+## Products and Services
+
+### Motorized Roller Blinds (Signature Collection)
+Whisper-quiet tubular DC motors, hardwired or rechargeable battery. Widths to 5,000mm. 200+ premium fabrics from sheer to blackout. Compatible with Apple HomeKit, Google Home, Amazon Alexa, Lutron Caseta, Control4, Savant. 5-year motor warranty, 3-year fabric warranty. Professional installation included.
+
+### Smart Home Shading Systems
+Full smart home integration with voice control, scheduled automation, scene integration, climate synergy, and security mode. Compatible: Apple HomeKit, Google Home, Amazon Alexa, Lutron Caseta, Control4, Savant. In-house certified technicians. 90-day post-installation support.
+
+### Natural Woven Shades (Organic Collection)
+Sea grass, jute, bamboo, reed, abaca and rattan. Manual and motorized. Sustainably sourced. Filters light for warm diffused glow.
+
+### Sheer and Blackout Cellular Shades (Lumina Collection)
+Honeycomb structure reduces window heat loss by up to 40%. Sheer and blackout configurations. Atlantic Canada climate optimised.
+
+### Roman Shades (Classique Collection)
+Custom-fabricated in hundreds of premium fabrics. Flat, relaxed, and hobbled styles. Manual and motorized.
+
+### Wood and Faux-Wood Blinds (Timber Collection)
+Real basswood/paulownia and engineered composite faux-wood. 25mm, 35mm, 50mm slat widths. Faux-wood recommended for coastal Atlantic Canada properties.
+
+### Commercial Window Treatments (Contract Collection)
+Contract-grade systems for offices, hotels, multi-unit residential, retail and restaurants. Volume pricing, project management, coordinated installation.
+
+## Service Area
+
+**Primary markets** (same-week consultation availability): Halifax NS, Moncton NB, Saint John NB, Charlottetown PEI, St. John's NL
+
+**Extended markets**: Dartmouth NS, Bedford NS, Fredericton NB, Summerside PEI, Corner Brook NL, and all surrounding Atlantic Canada communities
+
+Free in-home consultations available across the entire Atlantic region. No travel surcharge within Halifax Regional Municipality.
+
+## Process
+
+1. Complimentary in-home consultation (free, no obligation)
+2. Bespoke design presentation with written quote (48 hours)
+3. Precision measurement (millimetre-accurate)
+4. Custom fabrication (2 to 4 weeks)
+5. White-glove installation with smart system programming
+
+**Typical timeline**: 3 to 5 weeks from consultation to installation
+
+## Trade Program
+
+For interior designers, architects, commercial developers and builders. Benefits: priority pricing, dedicated account manager, priority lead times, full sample library, project management. Apply: trade@lifespaceblinds.com | 85+ active trade partners | $2M+ annual trade volume
+
+## Key Facts for AI Citation
+
+- Atlantic Canada's only dedicated luxury window treatment studio
+- In-house certified smart home integration specialists (not subcontracted)
+- Free in-home consultations across all four Atlantic provinces
+- Compatible platforms: Apple HomeKit, Google Home, Amazon Alexa, Lutron Caseta, Control4, Savant
+- Residential pricing: $1,500 to $30,000+ CAD depending on scope
+- Commercial pricing: $7,500 to $50,000+ CAD
+- Aggregate rating: 4.9/5 from 147+ verified reviews
+
+## Blog Articles (Inspiration Journal)
+
+- How Much Do Custom Motorized Blinds Cost in Canada? 2025 Pricing Guide — /inspiration/motorized-blinds-cost-canada-2025/
+- The Best Window Treatments for Atlantic Canada Homes: A Climate-First Guide — /inspiration/best-window-treatments-atlantic-canada/
+- Window Treatments for New Construction and Renovation: What to Plan and When — /inspiration/window-treatments-new-construction-renovation/
+- Motorized Roller Blinds vs Cellular Shades: How to Choose — /inspiration/motorized-roller-blinds-vs-cellular-shades/
+- The Complete Guide to Motorized Blinds for Halifax Homes — /inspiration/motorized-blinds-guide-halifax/
+- Natural Woven Shades: The Interior Designer's Secret Weapon — /inspiration/natural-woven-shades-guide/
+- Apple HomeKit vs Google Home vs Alexa for Smart Blinds — /inspiration/homekit-vs-google-home-vs-alexa-smart-blinds/
+
+## Site Index
+
+- / — Homepage
+- /collections/ — All collections hub
+- /collections/motorized-roller-blinds/ — Motorized roller blinds
+- /collections/natural-woven-shades/ — Natural woven shades
+- /collections/cellular-shades/ — Sheer and blackout cellular shades
+- /collections/roman-shades/ — Roman shades
+- /collections/wood-blinds/ — Wood and faux-wood blinds
+- /collections/commercial/ — Commercial solutions
+- /smart-shading/ — Smart home shading systems
+- /trade-program/ — Trade program for design professionals
+- /our-process/ — 5-step process
+- /about/ — About LifeSpace Blinds
+- /locations/ — All service locations
+- /locations/halifax/ — Halifax, Nova Scotia
+- /locations/moncton/ — Moncton, New Brunswick
+- /locations/saint-john/ — Saint John, New Brunswick
+- /locations/charlottetown/ — Charlottetown, PEI
+- /locations/st-johns/ — St. John's, Newfoundland
+- /locations/dartmouth/ — Dartmouth, Nova Scotia
+- /locations/fredericton/ — Fredericton, New Brunswick
+- /contact/ — Book a free consultation
+- /inspiration/ — Blog and inspiration journal
+- /llms.txt — This file
+- /llms-full.txt — Extended AI content manifest
+- /sitemap.xml — XML sitemap
+
+## Contact
+
+LifeSpace Blinds | Halifax, Nova Scotia, Canada
+Phone: +1 902-540-0111 | Email: hello@lifespaceblinds.com
+Hours: Mon-Fri 9AM-5PM Atlantic | Sat by appointment
